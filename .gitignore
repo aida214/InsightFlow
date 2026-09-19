@@ -1,0 +1,24 @@
+# Secrets - never commit your API key
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/cache/
+
+# Data and generated output
+*.csv
+*.xlsx
+!sample_data/*.csv
+insightflow_report.html
+insightflow_summary.txt
+
+# Editors and systems
+.vscode/
+.idea/
+.DS_Store
