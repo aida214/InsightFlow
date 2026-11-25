@@ -163,11 +163,6 @@ InsightFlow/
     └── report_generator.py       HTML report and text summary
 ```
 
-## Screenshots
-
-_Add screenshots here once you have run the app: the Overview tab, the Data
-quality score, a chart with its explanation, and the Prediction tab._
-
 ## Future improvements
 
 - Save a session and come back to it later
